@@ -109,13 +109,13 @@
 			<section class="page-header">
 				<div class="container">
 
-					<h1>What We Do For Startup Businesses</h1>
+					<h1>What We Do For Mid-Market Businesses</h1>
 
 					<!-- breadcrumbs -->
 					<ol class="breadcrumb">
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
-						<li class="active">StartUp</li>
+						<li class="active">Mid-Market</li>
 					</ol><!-- /breadcrumbs -->
 
 				</div>
@@ -129,8 +129,8 @@
 			<section>
 				<div class="container">
 					
-					<p class="lead size-20">So you have a startup business that is growing fast. You are nimble, smart and self-sufficient. Unfortunately, you don't have time to set up a workstation and access privileges to gain fast, efficient results for your growing startup without a big financial capacity.
-						<span class="weight-400">Well, we are experienced, dependable, using innovative technology solution that matches your unique need at all stages of your startup processes.</span></p>
+					<p class="lead size-20">You have successfully made it through the many challenges of setting and running a startup business. Now, you have a mid market business: you are better than when you started. Unfortunately, growing challenges can happen to any business, and these setbacks can stop you from achieving your ultimate goals, right! &nbsp;
+						<span class="weight-400">Well, we are experienced and dependable technology ally , using  cutting edge technology solutions that match your unique needs at all stages.</span></p>
 					
 					<div class="divider divider-center divider-color"><!-- divider -->
 						<i class="fa fa-chevron-down"></i>
@@ -158,16 +158,16 @@
 						</div>
 						<div class="col-md-6">
 							<h4>Strategize Your Growth &#126; Tap Into Our Experience</h4>
-							<p>You have got ambitious goals; we can help you achieve them. We combine our technology solutions to your business objectives, delivering scalable support and infrastructure planning specific to your needs and budget. In fact, we provide frequent updates to ensure that your startup is always in line with the emerging technologies and growth.</p>
-							<p>With years of experience assisting startups, we are familiar with the challenges you face. We can help you avoid the pitfalls. We strive for efficient solutions that are customized to your products or services. We streamline your workflow in the cloud to help reignite your connection with clients. In fact, your user experience matters to us, which is why we allow your customers to transition effectively to your new upgraded system.</p>
+							<p>With bigger data and bigger projects, it can be challenging to keep all the important information, safe and secure. We can establish a solution that best fit your unique needs by aligning your information technology with your business objectives, delivering scalable support and infrastructure plan. Whether it is a predictive model or web-based portal to enable you get the most out of your data.</p>
+							<p>Don't bubble and burst, we have the experience! We are familiar with the challenges you face. We have seen them, let us help you avoid the pitfalls.</p>
 
 						</div>
 					</article>
 					<!-- /BORN TO BE A WINNER -->
                     <div class="margin-top-60">
-                        <h2 class="size-25">Flexible plans</h2>
+                        <h2 class="size-25">Help you run like the big guys</h2>
 
-                        <p>Every day brings a new challenge in the business world. Your products or services should meet the demands of the future. We understand that new ideas will emerge, so we create room from the beginning to allow a smooth transition. As you adapt to the shifting business climate, we can customize our services on as needed basis. We are ready to help you, whatever comes your way.</p>
+                        <p>Your customized solution plan can include on-site visit, remote support and strategic planning. Regardless of your business needs, we have the right solution for you. We streamline your workflow to help reignite your connection with clients. Let us transfer your business work into the cloud and modern open source to eliminate the disappointment of external software solutions.</p>
                         <blockquote>
                             <p>Let us take care of those challenging technical problems that slow down your workflow. We can narrow down your responsibilities and select the right solution to deliver reliable support and growth with peace-of-mind </p>
                             <cite>CEITECHS</cite>
@@ -247,15 +247,15 @@
 
                     <div class="margin-top-10">
                         <ul class="nav nav-tabs nav-clean">
-                            <li class="active"><a href="#tab1" data-toggle="tab">What We Do For Mid-Market Businesses</a></li>
+                            <li class="active"><a href="#tab1" data-toggle="tab">What We Do For Startup Businesses</a></li>
                             <li><a href="#tab2" data-toggle="tab">What We Do For Enterprise Businesses</a></li>
                         </ul>
 
                         <div class="tab-content">
                             <div id="tab1" class="tab-pane fade in active">
                                 <img class="pull-left" src="assets/images/demo/mockups/600x399/11-min.jpg" width="200" alt="" />
-                                <p>So, you have successfully made it through the many challenges of setting and running a startup business. Now, you have a mid market business: you are better than when you started. Unfortunately, growing challenges can happen to any business, and these setbacks can stop you from achieving your ultimate goals, right! Well, we are experienced, dependable, using advanced technology solutions that match your unique need at all stages.
-                                    <a href="page-business-mid">
+                                <p>So you have a startup business that is growing fast. You are nimble, smart and self-sufficient. Unfortunately, you don't have time to set up a workstation and access privileges to gain fast, efficient results for your growing startup without a big financial capacity.
+                                    <a href="page-business-small">
                                         Read
                                         <!-- /word rotator -->
 									<span class="word-rotator" data-delay="2000">

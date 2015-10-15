@@ -412,7 +412,7 @@
 								<p>You’ve made it through the challenges of getting up and running. How do you choose the right technology solution today without limiting any future innovations?
                                 </p>
 								<hr />
-								<a href="page-blank" class="btn btn-3d btn-teal">Learn More</a>
+								<a href="page-business-mid" class="btn btn-3d btn-teal">Learn More</a>
 							</div>
 
 						</div>
@@ -427,7 +427,7 @@
                                     So how do you continue to efficiently grow and innovate your enterprise?
                                 </p>
 								<hr />
-								<a href="page-blank" class="btn btn-3d btn-teal">Learn More</a>
+								<a href="page-business-large" class="btn btn-3d btn-teal">Learn More</a>
 							</div>
 
 						</div>
@@ -437,9 +437,6 @@
 				</div>
 			</section>
 			<!-- /PRICING -->
-
-
-
 			<!-- TESTIMONIALS -->
 <!--			<section id="testimonials" class="alternate">-->
 <!--				<div class="container">-->
@@ -600,7 +597,7 @@
 					<div class="text-center">
 						<h2 class="wow fadeInUp nomargin" data-wow-delay="0.3s">ARE YOU CONVINCED ?</h2>
 
-						<p class="lead font-lato size-20 wow fadeInUp margin-bottom-60" data-wow-delay="0.5s">Building  Modern Innovative  Techlogical Solutions was never so Easy &amp; Interactive.</p>
+						<p class="lead font-lato size-20 wow fadeInUp margin-bottom-60" data-wow-delay="0.5s">Building  Modern Innovative  Technological Solutions has never been Easier &amp; Interactive.</p>
 						
 						<div class="margin-top-30">
 							<a href="page-start" class="btn btn-3d btn-lg wow fadeInUp btn-teal" data-wow-delay="0.7"><i class="glyphicon glyphicon-th-large"></i>NOT SURE WHERE TO START?</a>

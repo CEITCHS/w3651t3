@@ -109,13 +109,13 @@
 			<section class="page-header">
 				<div class="container">
 
-					<h1>What We Do For Startup Businesses</h1>
+					<h1>What We Do For Enterprise Businesses</h1>
 
 					<!-- breadcrumbs -->
 					<ol class="breadcrumb">
 						<li><a href="#">Home</a></li>
 						<li><a href="#">Pages</a></li>
-						<li class="active">StartUp</li>
+						<li class="active">Enterprise</li>
 					</ol><!-- /breadcrumbs -->
 
 				</div>
@@ -129,8 +129,8 @@
 			<section>
 				<div class="container">
 					
-					<p class="lead size-20">So you have a startup business that is growing fast. You are nimble, smart and self-sufficient. Unfortunately, you don't have time to set up a workstation and access privileges to gain fast, efficient results for your growing startup without a big financial capacity.
-						<span class="weight-400">Well, we are experienced, dependable, using innovative technology solution that matches your unique need at all stages of your startup processes.</span></p>
+					<p class="lead size-20">We understand that operating an enterprise is not walk in the park. The seemingly challenging task of embracing innovative technologies and incorporating the daily activities with conventional settings need to be addressed. Your enterprise must be able to maneuver in different contexts and keep developing the competencies to keep up with the accelerating pace of the changing business environment.  &nbsp;
+						<span class="weight-400">We are experienced, dependable, using innovative technology solution that matches your unique need at all stages of the development processes for your enterprise.</span></p>
 					
 					<div class="divider divider-center divider-color"><!-- divider -->
 						<i class="fa fa-chevron-down"></i>
@@ -157,19 +157,26 @@
 							<!-- /OWL SLIDER -->
 						</div>
 						<div class="col-md-6">
-							<h4>Strategize Your Growth &#126; Tap Into Our Experience</h4>
-							<p>You have got ambitious goals; we can help you achieve them. We combine our technology solutions to your business objectives, delivering scalable support and infrastructure planning specific to your needs and budget. In fact, we provide frequent updates to ensure that your startup is always in line with the emerging technologies and growth.</p>
-							<p>With years of experience assisting startups, we are familiar with the challenges you face. We can help you avoid the pitfalls. We strive for efficient solutions that are customized to your products or services. We streamline your workflow in the cloud to help reignite your connection with clients. In fact, your user experience matters to us, which is why we allow your customers to transition effectively to your new upgraded system.</p>
+							<h3>Create Innovative Ideas &#126; Tap Into Our Expertise</h3>
+							<p>Maybe you need another fresh technology to set out a new outside perspective, or you want new ways to innovate and grow your enterprise, we are here to help you succeed. We do simple and direct process:
+                                <ul class="list-unstyled">
+                                    <li><i class="fa fa-check"></i>Listening and learning your enterprise ideas</li>
+                                    <li><i class="fa fa-check"></i> Identifying the best solution that suits the unique needs of your enterprise</li>
+                                    <li><i class="fa fa-check"></i> Execute the innovative technological plans and other relevant strategies.</li>
+                                </ul>
+							</p>
+							<p>As you grow your idea, you need experts on your side. We can offer you the best network solution to help you build your systems, website and applications. Don't get stuck with outdated systems if they are no longer working. Let us find ways to make your existing systems working to achieve your next big step.</p>
 
 						</div>
 					</article>
 					<!-- /BORN TO BE A WINNER -->
                     <div class="margin-top-60">
-                        <h2 class="size-25">Flexible plans</h2>
+                        <h2 class="size-25">Save money</h2>
 
-                        <p>Every day brings a new challenge in the business world. Your products or services should meet the demands of the future. We understand that new ideas will emerge, so we create room from the beginning to allow a smooth transition. As you adapt to the shifting business climate, we can customize our services on as needed basis. We are ready to help you, whatever comes your way.</p>
+                        <p>In times like these, every cent counts. Our reputation is forged on our ability to save time and money for enterprises by streamlining their innovative technology solutions. We deliver the best open source technology solutions for a lifetime of earning power. Let us get deeper to increase your efficiency and boost the transparency of your company.</p>
+                        <p>Your customized solution plan can include on-site visit, remote support and strategic planning. Regardless of your business needs, we have the right solution set for you. We streamline your workflow to help reignite your connection with clients. Let us transfer your business work to a modern business and eliminate the disappointment of external software solutions.</p>
                         <blockquote>
-                            <p>Let us take care of those challenging technical problems that slow down your workflow. We can narrow down your responsibilities and select the right solution to deliver reliable support and growth with peace-of-mind </p>
+                            <p>Your standards are high, why compromise it with the wrong business solutions ! </p>
                             <cite>CEITECHS</cite>
                         </blockquote>
                     </div>
@@ -247,15 +254,15 @@
 
                     <div class="margin-top-10">
                         <ul class="nav nav-tabs nav-clean">
-                            <li class="active"><a href="#tab1" data-toggle="tab">What We Do For Mid-Market Businesses</a></li>
-                            <li><a href="#tab2" data-toggle="tab">What We Do For Enterprise Businesses</a></li>
+                            <li class="active"><a href="#tab1" data-toggle="tab">What We Do For Startup Businesses</a></li>
+                            <li><a href="#tab2" data-toggle="tab">What We Do For Mid-Market Businesses</a></li>
                         </ul>
 
                         <div class="tab-content">
                             <div id="tab1" class="tab-pane fade in active">
                                 <img class="pull-left" src="assets/images/demo/mockups/600x399/11-min.jpg" width="200" alt="" />
-                                <p>So, you have successfully made it through the many challenges of setting and running a startup business. Now, you have a mid market business: you are better than when you started. Unfortunately, growing challenges can happen to any business, and these setbacks can stop you from achieving your ultimate goals, right! Well, we are experienced, dependable, using advanced technology solutions that match your unique need at all stages.
-                                    <a href="page-business-mid">
+                                <p>So you have a startup business that is growing fast. You are nimble, smart and self-sufficient. Unfortunately, you don't have time to set up a workstation and access privileges to gain fast, efficient results for your growing startup without a big financial capacity.
+                                    <a href="page-business-small">
                                         Read
                                         <!-- /word rotator -->
 									<span class="word-rotator" data-delay="2000">
@@ -270,8 +277,8 @@
                             </div>
                             <div id="tab2" class="tab-pane fade">
                                 <img class="pull-right" src="assets/images/demo/mockups/600x399/18-min.jpg" width="200" alt="" />
-                                <p>We understand that operating an enterprise is not walk in the park. The seemingly challenging task of embracing innovative technologies and incorporating the daily activities with conventional settings need to be addressed. Your enterprise must be able to maneuver in different contexts and keep developing the competencies to keep up with the accelerating pace of the changing business environment. We are experienced, dependable, using innovative technology solution that matches your unique need at all stages of the development processes for your enterprise.
-                                    <a href="page-business-large">
+                                <p>So, you have successfully made it through the many challenges of setting and running a startup business. Now, you have a mid market business: you are better than when you started. Unfortunately, growing challenges can happen to any business, and these setbacks can stop you from achieving your ultimate goals, right! Well, we are experienced, dependable, using advanced technology solutions that match your unique need at all stages.
+                                    <a href="page-business-mid">
                                         Read
                                         <!-- /word rotator -->
 									<span class="word-rotator" data-delay="2000">
